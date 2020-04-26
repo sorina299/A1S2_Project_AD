@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587937844 source:c:\users\sorina\documents\github\a1s2_project_ad\fleuryalgorithm_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
